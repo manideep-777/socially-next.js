@@ -114,7 +114,6 @@ socially-nextjs/
 ├── lib/                  # Utility functions
 ├── prisma/               # Database schema
 ├── public/               # Static assets
-└── types/                # TypeScript definitions
 ```
 
 ## 🎯 Features
