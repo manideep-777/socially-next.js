@@ -4,7 +4,7 @@ A modern, full-stack social media application built with Next.js 14, featuring r
 
 ## 🌐 Live Demo
 
-<a href="https://socially-next-js-chi.vercel.app/" target="_blank" rel="noopener noreferrer">Visit Socially</a>
+**[Visit Socially](https://socially-next-js-chi.vercel.app/){:target="_blank"}**
 
 ## ✨ Highlights
 
@@ -114,6 +114,7 @@ socially-nextjs/
 ├── lib/                  # Utility functions
 ├── prisma/               # Database schema
 ├── public/               # Static assets
+└── types/                # TypeScript definitions
 ```
 
 ## 🎯 Features
